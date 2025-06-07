@@ -7,9 +7,9 @@
 ---
 
 ### 🚀 About Me
-- 👀 **Passionate about**: Creating dynamic web apps, intuitive UI/UX, and browser extensions.
-- 🌱 **Currently learning**: Node.js, Express, Tailwind CSS, and Chrome extension APIs.
-- 💞️ **Open to collaborate on**: Open-source web projects, wellness-focused apps, or innovative tools.
+- 👀 **Passionate about**: Creating dynamic web apps.
+- 🌱 **Currently learning**: Node.js, Express, Tailwind CSS.
+- 💞️ **Open to collaborate on**: Open-source web projects.
 - 📫 **Reach me**: rajupusti@yahoo.com.
 - ⚡ **Fun fact**: I once coded a website in a weekend inspired by a yoga session! 🧘‍♂️
 
@@ -27,8 +27,6 @@
 ### 🌟 Featured Projects
 - 🧘 **Yoga Samadhan** — Wellness platform for yoga and mindfulness  
    [https://yogasamadhan.com](https://yogasamadhan.com)
-- 🔒 **Site Blocker** — Chrome extension to stay focused  
-  [github.com/pustiraju/site-blocker](https://github.com/pustiraju/site-blocker)
 
 ---
 
