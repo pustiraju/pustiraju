@@ -1,6 +1,6 @@
 <div align="center">
  
-  <h1>👋 Hi, I’m Raju Pusti</h1>
+  <h1>👋 Hi, I’m Raju </h1>
   <p>Building intuitive web apps, designing sleek, modern interfaces, and diving into innovative tech that sparks creativity and joy—bringing ideas to life with clean code, bold visuals, and seamless experiences.</p>
 </div>
 
