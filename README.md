@@ -24,7 +24,7 @@
 
 ---
 
-### 🌟 Featured Projects
+### 🌟 A static site with AWS Services like S3, Cloudfront, ACM and AppScript Web Endpoint
 - 🧘 **Yoga Samadhan** — Wellness platform for yoga and mindfulness  
    [https://yogasamadhan.com](https://yogasamadhan.com)
 
@@ -33,6 +33,8 @@
 ### 🌟 Practice Projects
 -  **Typing** — For typing practice  
   [https://pustiraju.github.io/typing](https://pustiraju.github.io/typing)
+-  **Get Image Text** — To get a tergeted text automatically with ApiGateway and Lamda Function  
+  [https://pustiraju.github.io/get-frame-no](https://pustiraju.github.io/get-frame-no)
 
 ---
 
